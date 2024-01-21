@@ -1,0 +1,16 @@
+##########################################################
+#
+# Configuration file for Dataset Creation and Motif Finder
+#
+##########################################################
+
+
+# datasets per combination
+COUNT_PER_COMBO = 100
+
+# Error Probabilites
+PROB_MOTIF_PRESENT = 0.9
+PROB_MOTIF_ERROR_FREE = 0.9
+
+# Motif Finder Algorithm to run: BASIC/HMAP/ADAPTIVE
+ALGO_TO_RUN=ADAPTIVE
