@@ -1,4 +1,4 @@
-# Motif Project
+# Motif Finder Project
 
 Motifs are short, recurring patterns in DNA that are presumed to have a biological function. This project involves developing a "motif finding" program.
 
